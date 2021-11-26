@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 <img width="50%" height = "500px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover" align="right" />
 </div>
 
@@ -17,7 +17,7 @@
 - 💬 Ask me about 💬 Talk to me about **Python, Flask**
 
 - 📫 How to reach me **TheHamidov42@gmail.com**
-
+  
 <h3 align="left"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h3>
 <p align="left">
 <a href="https://codepen.io/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="#" height="30" width="40" /></a>
