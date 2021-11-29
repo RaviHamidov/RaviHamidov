@@ -14,17 +14,18 @@
 
 <div width="50%" align="left" >
   
-- 🔭 I’m currently working on **Python Development**
+<h4> # 🔭 I’m currently working on Python Development </h4>
   
-- 🌱 I’m currently learning **Python/Flask**
-
-- 👯 I’m looking to collaborate on **Python/Flask**
-
-- 💬 Ask me about 💬 Talk to me about **Python, Flask**
-
-- 📫 How to reach me **TheHamidov42@gmail.com**
+<h4> # 🌱 I’m currently learning Python/Flask </h4>
+  
+<h4> # 👯 I’m looking to collaborate on Python/Flask </h4>
+  
+<h4> # 💬 Ask me about 💬 Talk to me about Python, Flask </h4>
+  
+<h4> #📫 How to reach me TheHamidov42@gmail.com </h4>
 
 <br/>  
+  
 <br/>    
   
 <h1 align="left" > Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h1>
