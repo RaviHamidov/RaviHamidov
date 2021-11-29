@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<img width="48%" height = "300px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover" align="right" />
+<img width="49%" height = "300px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover" align="right" />
 </div>
   
 <h3>🔭 I’m currently working on Python Development </h3>
