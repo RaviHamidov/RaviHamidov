@@ -14,15 +14,15 @@
 
 <div width="50%" align="left" >
   
-<h4> # 🔭 I’m currently working on Python Development </h4>
+<h4> #  🔭 I’m currently working on Python Development </h4>
   
-<h4> # 🌱 I’m currently learning Python/Flask </h4>
+<h4> #  🌱 I’m currently learning Python/Flask </h4>
   
-<h4> # 👯 I’m looking to collaborate on Python/Flask </h4>
+<h4> #  👯 I’m looking to collaborate on Python/Flask </h4>
   
-<h4> # 💬 Ask me about 💬 Talk to me about Python, Flask </h4>
+<h4> #  💬 Ask me about 💬 Talk to me about Python, Flask </h4>
   
-<h4> #📫 How to reach me TheHamidov42@gmail.com </h4>
+<h4> #  📫 How to reach me TheHamidov42@gmail.com </h4>
 
 <br/>  
   
