@@ -64,9 +64,6 @@
 </div>
 
 <hr>
-  
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravihamidov&" alt="ravihamidov" /></p>
-</div>
-  
+
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RaviHamidov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
