@@ -1,4 +1,10 @@
 <div align="center">
+  <h1 display="inline-block" > Hi < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px ></h1>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=I'm+Ravi+Hamidov)]()
+</div>
+  
+<div align="center">
 <img width="50%" height = "300px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover" align="right" />
 </div>
 
@@ -7,13 +13,6 @@
 </div>
 
 <div width="50%" align="left" >
-  
-<h1> Hi < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px > </h1>
-<p align='left'>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=I'm+Ravi+Hamidov)]()
-  
-</p>
   
 - 🔭 I’m currently working on **Python Development**
   
