@@ -14,19 +14,17 @@
 
 <div width="50%" align="left" >
   
-<h3> 🔭  I’m currently working on Python Development </h3>
+<h3>🔭 I’m currently working on Python Development </h3>
   
-<h3> 🌱  I’m currently learning Python/Flask </h3>
+<h3>🌱 I’m currently learning Python/Flask </h3>
   
-<h3> 👯  I’m looking to collaborate on Python/Flask </h3>
+<h3>👯 I’m looking to collaborate on Python/Flask </h3>
   
-<h3> 💬  Ask me about 💬 Talk to me about Python, Flask </h3>
+<h3>💬 Ask me about 💬 Talk to me about Python, Flask </h3>
 
-<h3> 📫  How to reach me TheHamidov42@gmail.com </h3>
+<h3>📫 How to reach me TheHamidov42@gmail.com </h3>
 
 <br/>  
-  
-<br/>    
   
 <h1 align="left" > Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h1>
 <p align="left">
@@ -40,8 +38,7 @@
 <a href="https://discord.gg/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#" height="30" width="40" /></a>
 </p>
   
-<br/>  
-<br/>  
+<br/>
 
 <h1 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px ></h1>
 <p align="left"> 
