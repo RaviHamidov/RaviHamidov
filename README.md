@@ -5,24 +5,24 @@
 </div>
   
 <div align="center">
-<img width="48%" height = "300px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover" align="right" />
+<img width="50%" height = "300px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover" align="right" />
 </div>
 
 <div align="center">
-<img width="48%" height = "300px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover" align="right" />
+<img width="50%" height = "300px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover" align="right" />
 </div>
 
 <div width="50%" align="left" >
   
-<h3> #  🔭  I’m currently working on Python Development </h3>
+<h3> 🔭  I’m currently working on Python Development </h3>
   
-<h3> #  🌱  I’m currently learning Python/Flask </h3>
+<h3> 🌱  I’m currently learning Python/Flask </h3>
   
-<h3> #  👯  I’m looking to collaborate on Python/Flask </h3>
+<h3> 👯  I’m looking to collaborate on Python/Flask </h3>
   
-<h3> #  💬  Ask me about 💬 Talk to me about Python, Flask </h3>
+<h3> 💬  Ask me about 💬 Talk to me about Python, Flask </h3>
 
-<h3> #  📫  How to reach me TheHamidov42@gmail.com </h3>
+<h3> 📫  How to reach me TheHamidov42@gmail.com </h3>
 
 <br/>  
   
