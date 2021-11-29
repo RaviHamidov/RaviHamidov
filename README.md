@@ -12,7 +12,7 @@
 <img width="50%" height = "300px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover" align="right" />
 </div>
 
-<div width="45%" align="left" >
+<div width="43%" align="left" >
   
 <h3>🔭 I’m currently working on Python Development </h3>
   
