@@ -43,10 +43,10 @@
 <br/>
 <hr>
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravihamidov&show_icons=true&locale=en&layout=compact" alt="ravihamidov" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravihamidov&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="ravihamidov" /></p>
 <hr>
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravihamidov&show_icons=true&locale=en" alt="ravihamidov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravihamidov&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="ravihamidov" /></p>
 </div>
 <hr>
   
