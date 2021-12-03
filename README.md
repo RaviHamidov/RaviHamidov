@@ -42,7 +42,6 @@
 </div>
 <hr>
 <div align="left" ><a href="https://github.com/ravihamidov/github-readme-stats"><img alt="ravihamidov" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravihamidov&langs_count=8&count_private=true&layout=compact&theme=prussian" /></a></div>
-<hr>
 <div align="right" ><a href="https://github.com/ravihamidov/github-readme-stats"><img alt="ravihamidov" src="https://github-readme-stats.vercel.app/api?username=ravihamidov&show_icons=true&count_private=true&theme=prussian" /></a></div>
 <hr> 
 <div align="center" ><a href="https://github.com/ravihamidov/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=RaviHamidov&bg_color=162F45&color=BCDFFF&line=8C69B6&point=BCDFFF&hide_border=true" /></a></div>
