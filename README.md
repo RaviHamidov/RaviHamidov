@@ -41,7 +41,7 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a></p>
 </div>
 <hr>
-<div align="left" witdh="50%" ><a href="https://github.com/ravihamidov/github-readme-stats"><img alt="ravihamidov" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravihamidov&langs_count=8&count_private=true&layout=compact&theme=prussian" /></a></div>
-<div align="right" witdh="50%" ><a href="https://github.com/ravihamidov/github-readme-stats"><img alt="ravihamidov" src="https://github-readme-stats.vercel.app/api?username=ravihamidov&show_icons=true&count_private=true&theme=prussian" /></a></div>
+<div align="left" width="50%" ><a href="https://github.com/ravihamidov/github-readme-stats"><img alt="ravihamidov" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravihamidov&langs_count=8&count_private=true&layout=compact&theme=prussian" /></a></div>
+<div align="right" width="50%" ><a href="https://github.com/ravihamidov/github-readme-stats"><img alt="ravihamidov" src="https://github-readme-stats.vercel.app/api?username=ravihamidov&show_icons=true&count_private=true&theme=prussian" /></a></div>
 <hr> 
 <div align="center" ><a href="https://github.com/ravihamidov/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=RaviHamidov&bg_color=162F45&color=BCDFFF&line=8C69B6&point=BCDFFF&hide_border=true" /></a></div>
