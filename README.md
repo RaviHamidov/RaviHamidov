@@ -9,11 +9,11 @@
 <div align="center">
 <img width="49%" height = "300px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover" align="right" />
 </div>
-<p> - 🔭  I’m currently working on Python Development </p>
-<p> - 🌱  I’m currently learning Python/Flask </p>
-<p> - 👯  I’m looking to collaborate on Python/Flask </p>
-<p> - 💬  Ask me about 💬 Talk to me about Python, Flask </p>
-<p> - 📫  How to reach me TheHamidov42@gmail.com </p>
+- 🔭  I’m currently working on Python Development 
+- 🌱  I’m currently learning Python/Flask 
+- 👯  I’m looking to collaborate on Python/Flask 
+- 💬  Ask me about 💬 Talk to me about Python, Flask 
+- 📫  How to reach me TheHamidov42@gmail.com 
 <br/>  
 <h1 align="left" > Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h1>
 <p align="left">
