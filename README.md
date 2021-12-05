@@ -43,6 +43,13 @@
 <hr>
 <!-- <div align="center" width="60%" ><a href="https://github.com/ravihamidov/github-readme-stats"><img alt="ravihamidov" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravihamidov&langs_count=8&count_private=true&layout=compact&theme=prussian" /></a></div>
 <hr> -->
-<div align="center" width="30%" ><a href="https://github.com/ravihamidov/github-readme-stats"><img alt="ravihamidov" src="https://github-readme-stats.vercel.app/api?username=ravihamidov&show_icons=true&count_private=true&theme=prussian" /></a></div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ravihamidov&count_private=true&show_icons=true&theme=dark" padding-right='0px' width='47%' />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yusifiz&theme=dark" padding-left='0px' width='47%' />
+  
+<!-- <div align="center" width="30%" ><a href="https://github.com/ravihamidov/github-readme-stats"><img alt="ravihamidov" src="https://github-readme-stats.vercel.app/api?username=ravihamidov&show_icons=true&count_private=true&theme=prussian" /></a></div> -->
+  
 <hr> 
 <div align="center" ><a href="https://github.com/ravihamidov/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=RaviHamidov&bg_color=162F45&color=BCDFFF&line=8C69B6&point=BCDFFF&hide_border=true" /></a></div>
