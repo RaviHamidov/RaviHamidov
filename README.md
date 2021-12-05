@@ -9,6 +9,7 @@
 <div align="center">
 <img width="49%" height = "300px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover" align="right" />
 </div>
+<h1 align="left" > About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30px"> </h1>
   
 -  🔭 I’m currently working on Python Development
 
@@ -20,7 +21,7 @@
   
 - 📫 How to reach me TheHamidov42@gmail.com
   
-<br/>  
+<br>  
 <h1 align="left" > Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h1>
 <p align="left">
 <a href="https://codepen.io/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="#" height="30" width="40" /></a>
@@ -33,7 +34,7 @@
 <a href="https://discord.gg/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#" height="30" width="40" /></a>
 </p>
 <br/>
-<h1 align="left">Languages and Tools : <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px ></h1>
+<h1 align="left"> Languages and Tools : <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px ></h1>
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -46,18 +47,23 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a></p>
 </div>
-<br>
-<br>
+<h1 align="left" > GitHub Stats : <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"> </h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaviHamidov&show_icons=true&theme=prussian" />
+</div>
 <hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RaviHamidov&show_icons=true&theme=prussian" width='47%' />
-<img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=RaviHamidov&theme=prussian" width='47%' />
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=RaviHamidov&theme=prussian" />
+</div>
+<hr>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=RaviHamidov&bg_color=162F45&color=BCDFFF&line=8C69B6&point=BCDFFF&hide_border=dadada" />   
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31dfwqrw7fblkhujw65oy25h4cji)
+
+---
