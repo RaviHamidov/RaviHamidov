@@ -47,7 +47,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ravihamidov&count_private=true&show_icons=true&theme=dark" padding-right='0px' width='47%' />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yusifiz&theme=dark" padding-left='0px' width='47%' />
+<img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ravihamidov&theme=dark" padding-left='0px' width='47%' />
   
 <!-- <div align="center" width="30%" ><a href="https://github.com/ravihamidov/github-readme-stats"><img alt="ravihamidov" src="https://github-readme-stats.vercel.app/api?username=ravihamidov&show_icons=true&count_private=true&theme=prussian" /></a></div> -->
   
