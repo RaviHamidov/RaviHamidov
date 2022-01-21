@@ -19,7 +19,7 @@
 
 - 💬 Ask me about 💬 Talk to me about Python, Flask
   
-- 📫 How to reach me TheHamidov42@gmail.com
+- 📫 How to reach me ravihamidov42@gmail.com
   
 <br>  
 <h1 align="left" > Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h1>
