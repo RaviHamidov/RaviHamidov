@@ -1,14 +1,14 @@
-<img width="49%" height = "300px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover" align="right" />
+<img width="49%" height = "290px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover" align="right"/>
 
-<img width="49%" height = "300px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover" align="right" />
+<img width="49%" height = "290px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover" align="right"/>
 
-<img width="49%" height = "300px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover" align="right" />
+<img width="49%" height = "290px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover" align="right"/>
 
-<h1>Hi < Developers / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px ></h1>  
+<h1>Hi < Developers / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px ></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I'm+Ravi+Hamidov)]()
 
-<h1 align="left" > About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30px"> </h1>
+<h1 align="left" > About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30px"></h1>
   
 ### 🔭 I’m currently working on FrontEnd
 
