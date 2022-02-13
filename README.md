@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I'm+Ravi+Hamidov)]()
 
-<h1 align="left" > About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30px"></h1>
+<h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30px"></h1>
   
 ### 🔭 I’m currently working on FrontEnd
 ### 🌱 I’m currently Learning JavaScript
