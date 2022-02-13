@@ -10,13 +10,13 @@
 </div>
 <h1 align="left" > About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30px"> </h1>
   
-### 🔭 I’m currently working on FrontEnd Development
+#### 🔭 I’m currently working on FrontEnd Development
 
-### 🌱 I’m currently Learning JavaScript
+#### 🌱 I’m currently Learning JavaScript
 
-### 💬 Talk to me about FrontEnd Development
+#### 💬 Talk to me about FrontEnd Development
   
-### 📫 How to reach me ravihamidov42@gmail.com
+#### 📫 How to reach me ravihamidov42@gmail.com
 <br>  
 <!-- Connect with Me Start -->
 <h1 align="left" > Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h1>
