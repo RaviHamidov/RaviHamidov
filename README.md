@@ -1,13 +1,14 @@
-<h1 display="inline-block" >Hi < Developers / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px ></h1>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I'm+Ravi+Hamidov)]()
-  
 <div align="center">
 <img width="49%" height = "330px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover" align="right" />
 </div>
 <div align="center">
 <img width="49%" height = "330px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover" align="right" />
 </div>
+
+<h1 display="inline-block" align="left" >Hi < Developers / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px ></h1>  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I'm+Ravi+Hamidov)]()
+
 <h1 align="left" > About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30px"> </h1>
   
 ### 🔭 I’m currently working on FrontEnd
