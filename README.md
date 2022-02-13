@@ -64,7 +64,7 @@
 <hr>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=RaviHamidov&bg_color=162F45&color=BCDFFF&line=8C69B6&point=BCDFFF&hide_border=dadada" />  
 <!--======================================================= GitHub Stats Start =======================================================--> 
-
+<br>
 <!--======================================================= Spotify Start =======================================================--> 
 <img align="right" alt="GIF" height="250px" width="250px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <h1 align="left" > Spotify Playing : 🎧 </h1>
