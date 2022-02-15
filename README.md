@@ -1,12 +1,15 @@
-<!--======================================================= "Matrix" Gif =======================================================-->
-<img width="49%" height = "285px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover" align="right"/>
-<!--======================================================= "We can code this" Gif =======================================================-->
-<img width="49%" height = "285px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover" align="right"/>
-<!--======================================================= "Eat Sleep Code Repeat" Gif =======================================================-->
-<img width="49%" height = "285px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover" align="right"/>
-<h1>Hi < Developers / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px ></h1>
+<div align="center" display="flex">
+<h1 display="inline-block">Hi < Developers / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px ></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I'm+Ravi+Hamidov)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&lines=<h1>I'm+Ravi+Hamidov</h1>)]()
+</div>
+
+<!--======================================================= "Matrix" Gif =======================================================-->
+<img width="49%" height = "250px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover" align="right"/>
+<!--======================================================= "We can code this" Gif =======================================================-->
+<img width="49%" height = "250px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover" align="right"/>
+<!--======================================================= "Eat Sleep Code Repeat" Gif =======================================================-->
+<img width="49%" height = "250px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover" align="right"/>
 
 <h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30px"></h1>
   
