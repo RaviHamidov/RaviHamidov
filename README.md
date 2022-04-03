@@ -12,7 +12,8 @@
 <img width="49%" height = "230px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover" align="right"/>
 
 <h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30px"></h1>
-  
+
+### 🔎 <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=729f81&style=flat">  
 ### 🔭 I’m currently working on FrontEnd
 ### 🌱 I’m currently Learning JavaScript
 ### 💬 Talk to me about FrontEnd Development
@@ -69,7 +70,6 @@
 <!--======================================================= GitHub Stats Start =======================================================--> 
 <br>
 <!--======================================================= Spotify Start =======================================================--> 
-
 <img align="right" alt="GIF" height="300px" width="30%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <div align="left">
 <h1> Spotify Playing : 🎧 </h1>
@@ -77,5 +77,4 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31dfwqrw7fblkhujw65oy25h4cji)
   
 </div>
-
 <!--======================================================= Spotify End =======================================================--> 
