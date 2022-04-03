@@ -1,7 +1,7 @@
 <div align="center" display="flex">
 <h1 display="inline-block">Hi < Developers / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px ></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&lines=<h1>I'm+Ravi+Hamidov</h1>)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06ff06&size=28&lines=<h1>I'm+Ravi+Hamidov</h1>)]()
 </div>
 
 <!--======================================================= "Matrix" Gif =======================================================-->
@@ -13,7 +13,7 @@
 
 <h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30px"></h1>
 
-### 🔎 <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=729f81&style=flat">  
+### 🔎 <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=06ff06&style=flat">  
 ### 🔭 I’m currently working on FrontEnd
 ### 🌱 I’m currently Learning JavaScript
 ### 💬 Talk to me about FrontEnd Development
@@ -70,11 +70,11 @@
 <!--======================================================= GitHub Stats Start =======================================================--> 
 <br>
 <!--======================================================= Spotify Start =======================================================--> 
-<img align="right" alt="GIF" height="300px" width="30%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<!-- <img align="right" alt="GIF" height="300px" width="30%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <div align="left">
 <h1> Spotify Playing : 🎧 </h1>
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31dfwqrw7fblkhujw65oy25h4cji)
   
-</div>
+</div> -->
 <!--======================================================= Spotify End =======================================================--> 
