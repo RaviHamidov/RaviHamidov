@@ -63,8 +63,8 @@
 <!--======================================================= GitHub Stats Start =======================================================-->
 
 <div display="flex" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaviHamidov&show_icons=true&theme=prussian" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=RaviHamidov&theme=prussian" />
+  <img max-width="40%px" src="https://github-readme-stats.vercel.app/api?username=RaviHamidov&show_icons=true&theme=prussian" />
+  <img max-width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=RaviHamidov&theme=prussian" />
 </div>
 
 <hr>
