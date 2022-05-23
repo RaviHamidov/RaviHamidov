@@ -61,7 +61,17 @@
 <!--======================================================= Language & Tools End =======================================================-->
 <br>
 <!--======================================================= GitHub Stats Start =======================================================-->
-<h1 align="left" > GitHub Stats : <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"> </h1>
+
+<div display="flex" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaviHamidov&show_icons=true&theme=prussian" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=RaviHamidov&theme=prussian" />
+</div>
+
+<hr>
+
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=RaviHamidov&bg_color=162F45&color=BCDFFF&line=8C69B6&point=BCDFFF&hide_border=dadada" /> 
+
+<!-- <h1 align="left" > GitHub Stats : <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"> </h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaviHamidov&show_icons=true&theme=prussian" />
 </div>
@@ -70,7 +80,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=RaviHamidov&theme=prussian" />
 </div>
 <hr>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=RaviHamidov&bg_color=162F45&color=BCDFFF&line=8C69B6&point=BCDFFF&hide_border=dadada" />  
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=RaviHamidov&bg_color=162F45&color=BCDFFF&line=8C69B6&point=BCDFFF&hide_border=dadada" />   -->
 <!--======================================================= GitHub Stats Start =======================================================--> 
 <br>
 <!--======================================================= Spotify Start =======================================================--> 
