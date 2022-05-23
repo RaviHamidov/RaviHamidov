@@ -4,12 +4,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06ff06&size=28&lines=<h1>I'm+Ravi+Hamidov</h1>)]()
 </div>
 
+<div align="center" display="flex" flex-direction="column" align="right">
 <!--======================================================= "Matrix" Gif =======================================================-->
-<img width="49%" height = "230px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover" align="right"/>
+<img max-width="400px" height = "230px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover"/>
 <!--======================================================= "We can code this" Gif =======================================================-->
-<img width="49%" height = "230px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover" align="right"/>
+<img max-width="400px" height = "230px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover"/>
 <!--======================================================= "Eat Sleep Code Repeat" Gif =======================================================-->
-<img width="49%" height = "230px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover" align="right"/>
+<img max-width="400px" height = "230px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover"/>
+</div>
+
 
 <h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30px"></h1>
 
@@ -19,6 +22,7 @@
 ### 💬 Talk to me about FrontEnd Development
 ### 📫 How to reach me ravihamidov42@gmail.com
 <br>  
+
 <!--======================================================= Connect with Me Start =======================================================-->
 <h1 align="left" > Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h1>
 <p align="left">
