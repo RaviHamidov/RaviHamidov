@@ -1,23 +1,22 @@
 <div align="center" display="flex">
-<h1 display="inline-block">Hi < Developers / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px ></h1>
+<h1>Hi < Developers / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px ></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06ff06&size=28&lines=<h1>I'm+Ravi+Hamidov</h1>)]()
 </div>
 
 <div align="center" display="flex" flex-direction="column" align="right">
 <!--======================================================= "Matrix" Gif =======================================================-->
-<img max-width="400px" height = "230px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover"/>
+<img max-width="400px" width="100%" height = "230px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover"/>
 <!--======================================================= "We can code this" Gif =======================================================-->
-<img max-width="400px" height = "230px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover"/>
+<img max-width="400px" width="100%" height = "230px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover"/>
 <!--======================================================= "Eat Sleep Code Repeat" Gif =======================================================-->
-<img max-width="400px" height = "230px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover"/>
+<img max-width="400px" width="100%" height = "230px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover"/>
 </div>
-
 
 <h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30px"></h1>
 
 ### 🔎 <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=brightgreen&style=flat">  
-### 🔭 I’m currently working on FrontEnd
+### 🔭 I’m currently working on FrontEnd Projetcs
 ### 🌱 I’m currently Learning JavaScript
 ### 💬 Talk to me about FrontEnd Development
 ### 📫 How to reach me ravihamidov42@gmail.com
@@ -30,9 +29,8 @@
 <a href="https://www.linkedin.com/in/ravi-hamidov-74a41720a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ravi.hamidov.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="#" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ravihamidov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="#" height="30" width="40" /></a> -->
+<a href="https://medium.com/@ravihamidov42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="#" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="#" height="30" width="40" /></a> -->
-<!-- <a href="https://discord.gg/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#" height="30" width="40" /></a> -->
 </p>
 <!--======================================================= Connect with Me End =======================================================-->
 <br>
@@ -63,12 +61,10 @@
 <!--======================================================= GitHub Stats Start =======================================================-->
 
 <div display="flex" align="center">
-  <img max-width="40%px" src="https://github-readme-stats.vercel.app/api?username=RaviHamidov&show_icons=true&theme=prussian" />
+  <img max-width="40%" src="https://github-readme-stats.vercel.app/api?username=RaviHamidov&show_icons=true&theme=prussian" />
   <img max-width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=RaviHamidov&theme=prussian" />
 </div>
-
 <hr>
-
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=RaviHamidov&bg_color=162F45&color=BCDFFF&line=8C69B6&point=BCDFFF&hide_border=dadada" /> 
 
 <!-- <h1 align="left" > GitHub Stats : <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"> </h1>
@@ -81,7 +77,7 @@
 </div>
 <hr>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=RaviHamidov&bg_color=162F45&color=BCDFFF&line=8C69B6&point=BCDFFF&hide_border=dadada" />   -->
-<!--======================================================= GitHub Stats Start =======================================================--> 
+<!--======================================================= GitHub Stats End =======================================================--> 
 <br>
 <!--======================================================= Spotify Start =======================================================--> 
 <!-- <img align="right" alt="GIF" height="300px" width="30%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
