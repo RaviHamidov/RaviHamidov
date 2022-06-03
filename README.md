@@ -1,5 +1,5 @@
 <div align="center" display="flex">
-<h1 display="inline-block">Hi < Developers / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px ></h1>
+<h1 display="inline-block">Hi < Developers / >! <img height = 40px width = 40px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06ff06&size=28&lines=<h1>I'm+Ravi+Hamidov</h1>)]()
 </div>
@@ -14,7 +14,7 @@
 </div>
 
 
-<h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30px"></h1>
+<h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height = 40px width = 40px></h1>
 
 ### 🔎 <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=brightgreen&style=flat">  
 ### 🔭 I’m currently working on FrontEnd
@@ -24,7 +24,7 @@
 <br>  
 
 <!--======================================================= Connect with Me Start =======================================================-->
-<h1 align="left" > Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h1>
+<h1 align="left" > Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height = 40px width = 40px> </h1>
 <p align="left">
 <a href="https://twitter.com/HamidovRavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="#" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ravi-hamidov-74a41720a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
@@ -36,7 +36,7 @@
 <!--======================================================= Connect with Me End =======================================================-->
 <br>
 <!--======================================================= Language & Tools Start =======================================================-->
-<h1 align="left"> Languages and Tools : <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px ></h1>
+<h1 align="left"> Languages and Tools : <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 40px width = 40px ></h1>
 <p align="left"> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://stijndv.com/goodies/big-sur-replacement-icons/VScode.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -60,7 +60,7 @@
 <!--======================================================= Language & Tools End =======================================================-->
 <br>
 <!--======================================================= GitHub Stats Start =======================================================-->
-<h1 align="left" > GitHub Stats : <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"> </h1>
+<h1 align="left" > GitHub Stats : <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height = 40px width = 40px> </h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaviHamidov&show_icons=true&theme=prussian" />
 </div>
