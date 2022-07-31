@@ -16,7 +16,7 @@
 
 <h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height = 40px width = 40px></h1>
 
-### 🔎 <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=brightgreen&style=flat">  
+### 🔎 <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=228c22&style=flat">  
 ### 🔭 I’m currently working on FrontEnd
 ### 🌱 I’m currently Learning JavaScript
 ### 💬 Talk to me about FrontEnd Development
