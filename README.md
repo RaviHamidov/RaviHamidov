@@ -1,19 +1,25 @@
-<div align="center" display="flex">
+<div align="center">
+
+<!--======================================================= "Matrix" Gif =======================================================-->    
+<img align="right" align="right" width="45%" height="300px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover"/>
+
+
 <h1 display="inline-block">Hi < Developers / >! <img height = 40px width = 40px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06ff06&size=28&lines=<h1>I'm+Ravi+Hamidov</h1>)]()
 
 </div>
 
-<div style="display:flex; justify-content:space-between;">
-
-<div>
-
 <h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height = 40px width = 40px></h1>
+
 
 ### 🔎 <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=228c22&style=flat">
 
 ### 🔭 I’m currently working on FrontEnd
+
+
+<!--======================================================= "We can code this" Gif =======================================================-->
+<img align="right" align="right" width="45%" height="300px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover"/>
 
 ### 🌱 I’m currently Learning JavaScript
 
@@ -33,7 +39,13 @@
 <a href="https://medium.com/@ravihamidov42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="#" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="#" height="30" width="40" /></a> -->
 </p>
+
 <!--======================================================= Connect with Me End =======================================================-->
+
+
+<!--======================================================= "Eat Sleep Code Repeat" Gif =======================================================-->
+<img align="right" width="45%" height="300px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover"/>
+
 <br>
 <!--======================================================= Language & Tools Start =======================================================-->
 <h1 align="left"> Languages and Tools : <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 40px width = 40px ></h1>
@@ -57,24 +69,12 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
-
-</div>
-
-<div style="display:flex; flex-direction:column; ">
-    <!--======================================================= "Matrix" Gif =======================================================-->
-    <img max-width="300px" height = "230px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover"/>
-    <!--======================================================= "We can code this" Gif =======================================================-->
-    <img max-width="300px" height = "230px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover"/>
-    <!--======================================================= "Eat Sleep Code Repeat" Gif =======================================================-->
-    <img max-width="300px" height = "230px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover"/>
-</div>
-
-</div>
-
 <!--======================================================= Language & Tools End =======================================================-->
+
 <br>
+
 <!--======================================================= GitHub Stats Start =======================================================-->
-<h1 align="left" > GitHub Stats : <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height = 40px width = 40px> </h1>
+<h1> GitHub Stats : <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height = 40px width = 40px> </h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaviHamidov&show_icons=true&theme=prussian" />
 </div>
