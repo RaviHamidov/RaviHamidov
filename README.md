@@ -1,5 +1,4 @@
 <img align="right" align="right" width="35%" height="250px" src="https://media.giphy.com/media/l2Je3ktsieOfOGa1G/giphy.gif" alt="cover"/>
-<br/>
 <div align="center">
 
 <h1 display="inline-block">Hi < Developers / >! <img height = 40px width = 40px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
@@ -11,9 +10,9 @@
 <h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height = 40px width = 40px></h1>
 
 ### 🔎 <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=228c22&style=flat">
+
 <!--======================================================= "We can code this" Gif =======================================================-->
 <img align="right" align="right" width="35%" height="250px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover"/>
-
 ### 🔭 I’m currently working on FrontEnd
 
 ### 🌱 I’m currently Learning JavaScript
