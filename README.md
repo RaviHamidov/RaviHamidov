@@ -1,25 +1,20 @@
 <div align="center">
 
-<!--======================================================= "Matrix" Gif =======================================================-->    
-<img align="right" align="right" width="45%" height="300px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover"/>
-
-
 <h1 display="inline-block">Hi < Developers / >! <img height = 40px width = 40px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06ff06&size=28&lines=<h1>I'm+Ravi+Hamidov</h1>)]()
 
 </div>
 
-<h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height = 40px width = 40px></h1>
 
+<!--======================================================= "We can code this" Gif =======================================================-->
+<img align="right" align="right" width="45%" height="300px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover"/>
+
+<h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height = 40px width = 40px></h1>
 
 ### 🔎 <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=228c22&style=flat">
 
 ### 🔭 I’m currently working on FrontEnd
-
-
-<!--======================================================= "We can code this" Gif =======================================================-->
-<img align="right" align="right" width="45%" height="300px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover"/>
 
 ### 🌱 I’m currently Learning JavaScript
 
@@ -28,6 +23,9 @@
 ### 📫 How to reach me ravihamidov42@gmail.com
 
 <br>
+
+<!--======================================================= "Eat Sleep Code Repeat" Gif =======================================================-->
+<img align="right" width="45%" height="300px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover"/>
 
 <!--======================================================= Connect with Me Start =======================================================-->
 <h1 align="left" > Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height = 40px width = 40px> </h1>
@@ -42,11 +40,8 @@
 
 <!--======================================================= Connect with Me End =======================================================-->
 
-
-<!--======================================================= "Eat Sleep Code Repeat" Gif =======================================================-->
-<img align="right" width="45%" height="300px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover"/>
-
 <br>
+
 <!--======================================================= Language & Tools Start =======================================================-->
 <h1 align="left"> Languages and Tools : <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 40px width = 40px ></h1>
 <p align="left"> 
