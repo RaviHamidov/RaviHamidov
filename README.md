@@ -2,26 +2,26 @@
 <h1 display="inline-block">Hi < Developers / >! <img height = 40px width = 40px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06ff06&size=28&lines=<h1>I'm+Ravi+Hamidov</h1>)]()
+
 </div>
 
-<div align="center" display="flex" flex-direction="column" align="right">
-<!--======================================================= "Matrix" Gif =======================================================-->
-<img max-width="400px" height = "230px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover"/>
-<!--======================================================= "We can code this" Gif =======================================================-->
-<img max-width="400px" height = "230px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover"/>
-<!--======================================================= "Eat Sleep Code Repeat" Gif =======================================================-->
-<img max-width="400px" height = "230px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover"/>
-</div>
+<div style="display:flex; justify-content:space-between;">
 
+<div>
 
 <h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height = 40px width = 40px></h1>
 
-### 🔎 <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=228c22&style=flat">  
+### 🔎 <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=228c22&style=flat">
+
 ### 🔭 I’m currently working on FrontEnd
+
 ### 🌱 I’m currently Learning JavaScript
+
 ### 💬 Talk to me about FrontEnd Development
+
 ### 📫 How to reach me ravihamidov42@gmail.com
-<br>  
+
+<br>
 
 <!--======================================================= Connect with Me Start =======================================================-->
 <h1 align="left" > Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height = 40px width = 40px> </h1>
@@ -57,6 +57,20 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
+
+</div>
+
+<div style="display:flex; flex-direction:column; ">
+    <!--======================================================= "Matrix" Gif =======================================================-->
+    <img max-width="300px" height = "230px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover"/>
+    <!--======================================================= "We can code this" Gif =======================================================-->
+    <img max-width="300px" height = "230px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover"/>
+    <!--======================================================= "Eat Sleep Code Repeat" Gif =======================================================-->
+    <img max-width="300px" height = "230px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover"/>
+</div>
+
+</div>
+
 <!--======================================================= Language & Tools End =======================================================-->
 <br>
 <!--======================================================= GitHub Stats Start =======================================================-->
@@ -78,6 +92,6 @@
 <h1> Spotify Playing : 🎧 </h1>
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31dfwqrw7fblkhujw65oy25h4cji)
-  
+
 </div> -->
-<!--======================================================= Spotify End =======================================================--> 
+<!--======================================================= Spotify End =======================================================-->
