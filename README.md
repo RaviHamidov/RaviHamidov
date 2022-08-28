@@ -1,9 +1,9 @@
 <img align="right" align="right" width="35%" height="250px" src="https://media.giphy.com/media/l2Je3ktsieOfOGa1G/giphy.gif" alt="cover"/>
 <div align="center">
 
-<h1 display="inline-block">Hi < Developers / >! <img height = 40px width = 40px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
+<h1 display="inline-block">Hi < Guys / >! <img height = 40px width = 40px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06ff06&size=28&lines=<h1>I'm+Ravi+Hamidov</h1>)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06ff06&size=28&lines=<h1>I'm+Front+End+Developer</h1>)]()
 
 </div>
 
