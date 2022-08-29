@@ -3,7 +3,7 @@
 
 <h1 display="inline-block">Hi < Guys / >! <img height = 40px width = 40px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06ff06&size=22&lines=<h2>I'm+Front+End+Developer</h2>)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06ff06&size=22&lines=<h1>I'm+Front+End+Developer</h1>)]()
 
 </div>
 
