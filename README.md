@@ -98,7 +98,7 @@
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=RaviHamidov&bg_color=162F45&color=BCDFFF&line=8C69B6&point=BCDFFF&hide_border=dadada" /> 
 </div>
 
-<br>
+<hr>
 
 <!--======================================================= Spotify Start =======================================================--> 
 <img align="right" alt="GIF" height="300px" width="35%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
