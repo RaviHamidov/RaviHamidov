@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae vero ea, ve
 
 ### Like My Work?
 
-<a href="https://ko-fi.com/ravihamidov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<!-- <a href="https://ko-fi.com/ravihamidov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a> -->
 
 ### Show some ❤️ by starring some of the repositories!
 
