@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae vero ea, ve
 
 ## Languages and Tools
 
-[![My Tools](https://skillicons.dev/icons?i=vercel,netlify,devto,medium,heroku,git,github,gitlab,md,gcp,aws,bash,visualstudio,vscode,postman,figma,ps&theme=light)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vercel,netlify,devto,heroku,git,github,gitlab,md,gcp,aws,bash,visualstudio,vscode,postman,figma,ps&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,nodejs,react,vite,redux&theme=light)](https://skillicons.dev)
 
