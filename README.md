@@ -27,11 +27,11 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae vero ea, ve
 
 ## Languages and Tools
 
-[![My Tools](https://skillicons.dev/icons?i=vercel,netlify,heroku,git,github,gitlab,md,gcp,aws,bash,visualstudio,vscode,postman,figma,ps)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vercel,netlify,heroku,git,github,gitlab,md,gcp,aws,bash,visualstudio,vscode,postman,figma,ps&theme=light)](https://skillicons.dev)
 
-[![Sources](https://skillicons.dev/icons?i=stackoverflow,devto,medium,)](https://skillicons.dev)
+[![Sources](https://skillicons.dev/icons?i=stackoverflow,devto,medium&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,nodejs,npm,react,vite,redux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,nodejs,react,vite,redux&theme=light)](https://skillicons.dev)
 
 ### Projects and Dev Stuffs:
 
