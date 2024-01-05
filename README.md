@@ -6,7 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-2986cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/ravihamidov/)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-46ba14?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/+994554962787?text=)
 
-### Glad to see you here! &nbsp; <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=228c22&style=flat">
+## Glad to see you here! &nbsp; <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=228c22&style=flat">
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae vero ea, veritatis vel earum animi ullam libero atque cupiditate tempore?
 
@@ -27,9 +27,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae vero ea, ve
 
 ## Languages and Tools
 
-[![My Tools](https://skillicons.dev/icons?i=vercel,netlify,heroku,git,github,gitlab,md,gcp,aws,bash,visualstudio,vscode,postman,figma,ps&theme=light)](https://skillicons.dev)
-
-[![Sources](https://skillicons.dev/icons?i=stackoverflow,devto,medium&theme=light)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vercel,netlify,devto,medium,heroku,git,github,gitlab,md,gcp,aws,bash,visualstudio,vscode,postman,figma,ps&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,nodejs,react,vite,redux&theme=light)](https://skillicons.dev)
 
