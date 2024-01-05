@@ -46,7 +46,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae vero ea, ve
 
 </details>
 
-<div align="center">
+<div align="left">
 
 ### Like My Work?
 
