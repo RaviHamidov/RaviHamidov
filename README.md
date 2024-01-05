@@ -46,9 +46,9 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae vero ea, ve
 
 </details>
 
-### Like My Work?
-
 <div align="center">
+
+### Like My Work?
 
 <a href="https://ko-fi.com/ravihamidov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
