@@ -41,18 +41,14 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae vero ea, ve
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravihamidov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravihamidov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  
 </details>
-
-<div align="left">
-<h1> Spotify Playing : 🎧 </h1>
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31dfwqrw7fblkhujw65oy25h4cji)
 
 ### Like My Work?
 
-<a href="https://ko-fi.com/ravihamidov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
 <div align="center">
+
+<a href="https://ko-fi.com/ravihamidov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 ### Show some ❤️ by starring some of the repositories!
 
