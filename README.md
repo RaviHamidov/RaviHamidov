@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/RaviHamidov)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@ravihamidov)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-2986cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/ravihamidov/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-fccc63?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ravihamidov/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-406ac9?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ravihamidov/)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-46ba14?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/+994554962787?text=)
 
 ## Glad to see you here! &nbsp; <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=228c22&style=flat">
