@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae vero ea, ve
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RaviHamidov?tab=repositories).
 - 👾 &nbsp; Fun fact: Googling is my favorite activity.
 - 📫 &nbsp; How to reach me: ravihamidov42@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/ravihamidov/resume-project/raw/main/resume.pdf)
+- 📝 &nbsp; Checkout my [Resume](https://github.com/ravihamidov/resume-project/raw/main/resumebyRaviHamidov.pdf)
 
 ### My Absolute Favorites:
 
