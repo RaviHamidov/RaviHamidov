@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae vero ea, ve
 - 🚀 &nbsp; I’m currently learning Java
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RaviHamidov?tab=repositories).
 - 👾 &nbsp; Fun fact: Googling is my favorite activity.
-- 📫 &nbsp; How to reach me: ravihamidov42@gmail.com
+- 📫 &nbsp; How to reach me: [with Gmail](mailto:ravihamidov42@gmail.com)
 - 📝 &nbsp; Checkout my [Resume](https://github.com/ravihamidov/resume-project/raw/main/resumeByRaviHamidov.pdf)
 
 ### My Absolute Favorites:
