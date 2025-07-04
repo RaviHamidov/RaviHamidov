@@ -10,7 +10,8 @@
 
 ## Glad to see you here! &nbsp; <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=228c22&style=flat">
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae vero ea, veritatis vel earum animi ullam libero atque cupiditate tempore?
+As a self-driven developer with a strong foundation in frontend technologies, I focus on creating user-centric, responsive, and accessible web applications. Currently diving deeper into Java and backend development to become a well-rounded full-stack developer.
+
 
 ### Talking about Personal Stuffs:
 
